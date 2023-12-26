@@ -33,7 +33,7 @@ body{
     margin-left: 10px;
 }
 .nav_logo{
-    width: 180px;
+    width: 250px;
 }
 .nav_right{
     position: fixed;
@@ -41,7 +41,7 @@ body{
     display: flex;
     margin-right: 10px;
 }
-.nav_avatar{
+.nav__avatar{
     width: 40px;
 }
 #banner{
