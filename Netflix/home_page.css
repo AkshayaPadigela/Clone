@@ -41,9 +41,7 @@ body{
     display: flex;
     margin-right: 10px;
 }
-.nav__avatar{
-    width: 100px;
-}
+
 #banner{
     color: white;
     object-fit: contain;
